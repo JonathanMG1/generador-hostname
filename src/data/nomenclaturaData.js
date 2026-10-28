@@ -15,6 +15,7 @@ export const TIPOS_EQUIPO = [
   { code: "I", label: "Impresora Térmica" },
   { code: "L", label: "Lector de Código de Barras" },
   { code: "D", label: "PDA (Dispositivo Móvil Zebra/Honeywell)" },
+  { code: "M", label: "Monitor" },
 ];
 
 export const GERENCIAS = [
